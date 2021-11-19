@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"GitGutter",
+		"LiveReload",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Tabnine",
+		"Terminal",
+	],
+}
